@@ -1,0 +1,105 @@
+body {
+	z-index: 1;
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+	padding: 30px;
+}
+
+iframe {
+	position: absolute;
+	margin-left: 30vw;
+	margin-top: 30vh;
+	Transform: scale(1.2);
+}
+
+#about {
+	font-size: 18px;
+}
+
+iframe, #aboutBoard, #frame {
+	background-color: black;
+	border: 5px solid white;
+	/* z-index: 2; */
+}
+
+.col-right {
+	display: grid;
+	/* max-width: 500px;
+	max-height: 500px;
+	z-index: 2; */
+}
+
+#aboutBoard, #frame {
+	width: inherit;
+	height: inherit;
+}
+
+#aboutBoard {
+	position: absolute;
+	margin-right: 5vw;
+	margin-left: 70vw;
+	padding: 20px;
+	text-align: left;
+	font-size: 20px;
+}
+
+#boardHeader {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 2vh;
+	margin-bottom: 2vh;
+	text-decoration: underline;
+}
+
+.link {
+	color: yellow;
+	text-decoration: none;
+}
+
+#welcome, #motd {
+	text-align: center;
+}
+
+@keyframes motd {
+	0%   { font-size: 60%;  }
+	25%  { font-size: 65%;  }
+	50%  { font-size: 70%;  }
+	75%  { font-size: 75%;  }
+	100% { font-size: 80%;  }
+}
+
+#motd {
+	color: darkslategray;
+	margin-left: 40vw;
+	margin-top: 0px;
+	font-size: 70%;
+	z-index: 3;
+	Transform: rotate(-6deg);
+	position: absolute;
+
+	/* Animation Settings  */
+	animation-direction: alternate-reverse;
+	animation-timing-function: linear;
+	animation-name: motd;
+	animation-duration: 0.8s;
+	animation-iteration-count: infinite;
+}
+
+#welcome {
+	color: green;
+	font-size: 50px;
+	z-index: 4;
+	position: absolute;
+	justify-content: center;
+	display: flex;
+}
+
+#lainButton {
+	z-index: 2;
+	background-color: transparent;
+	border: none;
+	position: absolute;
+	left: 100px;
+	top: 479px;
+	Transform: scale(0.1) rotate(-5deg);
+}
