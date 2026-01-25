@@ -12,7 +12,7 @@ tags:
 
 Not too long ago, about halfway through my school year, I started playing Minecraft with my friends at UBC through a selfhosted world locally. It was a real blast; I got a motley of my new friends together and we sat around in various lounges throughout Vanier to connect up on LAN for the few hours of freedom we had from assignments (and let me tell you: there really were not many of those).
 
-![A screenshot from the Abyss server.]({{ 'images/posts/abysscraft.png' | relative_url }})
+![A screenshot from the Abyss server.]({{ 'images/posts/abysscraft.png' | relative_url }})w
 
 *A screenshot from the server in question. There isn't much to see in this image, as I unfortunately didn't think to get many screenshots, but a whole lot of major conflicts went down in this area. If you look to the left of the image, you can see the beginnings of a cherry-pink wood house lying atop a Sakura tree. Don't be fooled by the inviting allure of the house: it's like this server's version of the hotel from "The Shining".*
 

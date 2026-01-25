@@ -1,3 +1,4 @@
+
 # Site settings
 title: "moofy.org"
 domain: moofy.org
@@ -17,9 +18,16 @@ motds: [
 ]
 
 footer_quotes: [
+  # Nirvana
   "Forever in debt to your priceless advice",
+
+  # Lain
   "Close the world, open the next",
+
+  # Radiohead
   "That's it sir? You're leaving?",
+
+  # The Smiths
   "Please excuse me from gym, I have a terrible cold on."
 ]
 
@@ -27,8 +35,8 @@ footer_quotes: [
 public_email: 'mail <span class="normal">at</span> moofy <span class="normal">dot</span> org'
 github: 'mufaro3'
 current_book:
-  title: "The Odyssey"
-  author: "Homer"
+  title: "Amerika"
+  author: "Franz Kafka"
 
 # Blog Settings
 

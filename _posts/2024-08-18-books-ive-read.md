@@ -12,6 +12,21 @@ tags:
 
 The following is a list of various books I've read across differernt genres, with some descriptions or a set of my thoughts. Anything incredibly long will just get a separate blog post.
 
+## Books I read in 2025-26
+
+- Frankenstein by Mary Shelley (7/10)
+  - A fun read for sure, but didn't really feel super emotionally deep.
+- Diary of a Young Girl by Anne Frank (10/10)
+  - This book scared me because I always thought of the Holocaust as something that happened to people that only exist in history books. Anne Frank talks just like a normal young girl, like my cousins. Horrifying.
+- Evil Under the Sun by Agatha Christie (5/10)
+  - It was pretty boring. And the twist wasn't really all-that.
+- Othello by William Shakespeare (4/10)
+  - It just didn't do it for me. Nothing particularly interesting about it.
+- Project Hail Mary by Andy Weir (9/10)
+  - This book was an absolute page-turner. It really made me think about why I like physics so much. I love it to death. 
+- Slaughterhouse-Five by Kurt Vonnegut (11/10)
+  - Deserves its own post.
+
 ## Books I read in 2024-25 (somewhat in order)
 
 - Julius Caesar by William Shakespeare (6/10) 
@@ -88,19 +103,20 @@ The following is a list of various books I've read across differernt genres, wit
 
 ## Books that I've started previously but still have yet to finish
 
-- Jihad vs. McWorld by Benjamin R. Barber
 - This Side of Paradise by F. Scott Fitzgerald
 - Investing for Canadians for Dummies by Eric Tyson and Tony Martin
-- The Essentials of Statistics for Business and Economics by Anderson et al.
+- Infinite Jest by David Foster Wallace
+- All The President's Men by Carl Bernstein and Bob Woodward
 
 ## Books that I have begun to read and stopped (have litte/no intention to finish)
 
 - Lord of the Flies by William Golding
 - Physics by Aristotle
+- Jihad vs. McWorld by Benjamin R. Barber
+- The Essentials of Statistics for Business and Economics by Anderson et al.
 
 ## Books I have yet to read and are currently in my possession/on my shelf
 
-- Diary of a Young Girl by Anne Frank
 - How Not To Get Shot by D.L. Hughley
 - Dungeons n' Durags by Ron Dawson
 - Talks with the Moon King by Mitchell Hall
@@ -111,6 +127,8 @@ The following is a list of various books I've read across differernt genres, wit
 - The Odyssey by Homer
 - Tambaoga Mwanangu by Giles Kuimba
 - The Beautiful but Damned by F. Scott Fitzgerald
+- The Count of Monte Cristo by Alexandre Dumas
+- The Sound and the Fury by William Faulkner 
 
 ## Books I have yet to read and I do not currently own
 
@@ -120,19 +138,16 @@ The following is a list of various books I've read across differernt genres, wit
 - Don Quixote (or "*El Ingenioso Hidalgo Don Quixote de la Mancha*") by Miguel de Cervantes
 - Paradise Lost by John Milton
 - The Divine Comedy by Dante Alighieri
-- Slaughterhouse-Five by Kurt Vonnegut
 - The Handmaid's Tale by Margaret Atwood
 - To Kill a Mockingbird by Harper Lee
 - Macbeth, King Lear, Othello, and Henry VIII by William Shakespeare
 - Of Mice and Men and The Grapes of Wrath by John Steinbeck
-- Frankenstein by Mary Shelley
 - Doctor Faustus by Christopher Marlowe
 - Moby Dick by Herman Melville
 - The Fountainhead by Ayn Rand
-- Infinite Jest by David Foster Wallace
-- The Count of Monte Cristo by Alexander Dumas
 - The Decameron by Giovanni Boccaccio
 - The Iliad by Homer
 - The Aeneid by Virgil
 - All Quiet on the Western Front by Erich Maria Remarque
 - Diary of an Oxygen Thief by Anonymous 
+- The Goldfinch by Donna Tartt
