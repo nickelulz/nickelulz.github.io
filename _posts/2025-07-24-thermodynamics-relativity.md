@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "linear algebra, thermodynamics, special relativity, and grueling pain"
+title:  "Books on Linear Algebra, Thermodynamics, and Special Relativity"
 date:   2025-07-24 11:03:00
 comments: true
 categories:

@@ -8,13 +8,16 @@ github_source_link: "https://github.com/mufaro3/mufaro3.github.io"
 
 # disqus
 disqus_shortname: moofydotorg
-  
+
 # messages of the day
-motds: [  
+motds: [
   # 1984
   'WAR IS PEACE!',
   'IGNORANCE IS STRENGTH!',
-  'FREEDOM IS SLAVERY!'
+  'FREEDOM IS SLAVERY!',
+
+  # Slaughterhouse-Five
+  'So it goes.'
 ]
 
 footer_quotes: [
@@ -28,15 +31,15 @@ footer_quotes: [
   "That's it sir? You're leaving?",
 
   # The Smiths
-  "Please excuse me from gym, I have a terrible cold on."
+  "Please excuse me from gym, I have a terrible cold coming on."
 ]
 
 # Personal Information
 public_email: 'mail <span class="normal">at</span> moofy <span class="normal">dot</span> org'
 github: 'mufaro3'
 current_book:
-  title: "Amerika"
-  author: "Franz Kafka"
+  title: "The Beautiful and Damned"
+  author: "Scott Fitzgerald"
 
 # Blog Settings
 

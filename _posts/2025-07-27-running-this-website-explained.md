@@ -7,7 +7,6 @@ categories:
     - programming
 tags:
     - web-development
-    - in-progress
 ---
 
 I've previously received a questions asking for advice on how to create a website like mine, and in order to help others looking to make blog sites or portfolios like this, I thought I'd give a full technical breakdown of how this website works, including web design, hosting, domain management, and lastly, article writing. Beware: to make a website like this, you will need to be comfortable with both the heavy technical aspects of running a site like this alongside the creative aspects of producing this content. The biggest pro to this website is that the vast majority of this website (and all of its core functions) are completely free to produce, run, and manage, but there are several bells and whistles that I willingly fork up about 30 USD yearly to operate, and I'll explain why shortly.
@@ -116,5 +115,3 @@ Lastly, for the motivational part, I keep a small notepad with me where I write 
 Most of the things that I have written about thus far are projects that I worked on for fun months prior without ever intending to really do a full write-up, but afterward, I thought it would be useful to write a description of what happened, what worked, what didn't, and what I learned. For any creators or experimenters out there, I think that format is really worth a try.
 
 It's incredibly easy to avoid writer's block when you aren't trying to force ideas out of you. Some ideas just come naturally, and when they do, you need to listen. Those are the ideas most worth writing down. It always seems like they come at the dumbest times, like when you're taking a bath or going for a walk or brushing your teeth or some shit, but ironically, those mundane moments where you're just existing in monotony are the best for thinking because your brain understands just how meaningless that time is. I think that meaningless time really has all the time in the world for that exact reason. Spend more of your life actually living it than thinking or writing and then think and write as much as you can.
-
-

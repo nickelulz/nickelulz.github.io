@@ -58,7 +58,6 @@ then I oogled at all of the advertisements on Times Square:
 
 ![Ads]({{ 'images/new-england-trip/manhattan/times/ads.JPG' | relative_url }})
 ![Sydney Sweeney]({{ 'images/new-england-trip/manhattan/times/sweeney.JPG' | relative_url }})
-> *This photo of Sydney Sweeney was actually what led me to write [this article]({{ 'posts/cosmetics-and-appearances/' | relative_url }}).*
 
 I also found the crowd at Times Square incredibly interesting:
 

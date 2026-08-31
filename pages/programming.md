@@ -3,5 +3,5 @@ layout: blog
 title: "/λ/: Huzzah! Science!"
 permalink: /λ
 category: programming
-description: "A whole lot of nothing is going down here, folks. These are the boring articles."
+description: "Computers, programming, computational physics/math/biology/economics, etc. Everything science-related, technical, and the like."
 ---

@@ -6,7 +6,7 @@
       <li><a href="{{ site.url }}/all" title="All">all</a></li>
       <li><a href="{{ site.url }}/rss" title="RSS Feed">rss</a></li>
       ] &nbsp;
-      
+
       [ &nbsp;
       {% assign programming-page = site.pages | where: "name", "programming.md" | first %}
       <li><a href="{{ site.url }}/λ" title="{{ programming-page.title }}">/λ/</a></li>
@@ -14,8 +14,6 @@
       <li><a href="{{ site.url }}/per" title="{{ personal-page.title }}">/per/</a></li>
       {% assign media-page = site.pages | where: "name", "media.md" | first %}
       <li><a href="{{ site.url }}/med" title="{{ media-page.title }}">/med/</a></li> 
-      {% assign gaming-page = site.pages | where: "name", "gaming.md" | first %}
-      <li><a href="{{ site.url }}/vg" title="{{ gaming-page.title }}">/vg/</a></li>
       {% assign essay-page = site.pages | where: "name", "essay.md" | first %}
       <li><a href="{{ site.url }}/es" title="{{ essay-page.title }}">/es/</a></li>
       ] &nbsp;
